@@ -1,6 +1,7 @@
 # robotictentacle
 
 2-DOF robotic tentacle powered by dual 12V geared hobby motors, an L298N motor driver, and an ESP32-C3 Super Mini. Features joystick control and dual 3D-printed capstan drives for tendon actuation. Uses standard thread for proof-of-concept, with support for stronger nylon or cable-based tendons.
+<img width="604" height="685" alt="image" src="https://github.com/user-attachments/assets/95547264-9f51-4331-880f-8f4feec48861" />
 
 ## Project Status
 
