@@ -308,21 +308,11 @@ This project was made in collaboration with **Blueprint.am**.
 
 Videos, build footage, and demonstration links can be added here:
 
-- [Video 1 - placeholder]()
-- [Video 2 - placeholder]()
-- [Build log - placeholder]()
+- [Video 1](https://www.instagram.com/reel/DXw7M-UJZG7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+- [Video 2](https://www.instagram.com/reel/DYAJk1oO_MS/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 ## Disclaimer
 
 This is a proof-of-concept hardware project. Use caution when working with motors, power supplies, soldering tools, and moving mechanical parts. Verify wiring before powering the system, and keep fingers clear of capstans and tendons while the motors are active.
 
-## License
-
-Add your preferred license here.
-
-Example options:
-
-- MIT License
-- CERN Open Hardware License
-- Creative Commons Attribution License
 
